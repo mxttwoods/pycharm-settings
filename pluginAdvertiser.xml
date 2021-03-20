@@ -278,6 +278,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gohtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.go-template" />
+              <option name="myPluginName" value="Go Template" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.handlebars">
           <value>
             <plugin>
@@ -1174,6 +1182,14 @@
           </value>
         </entry>
         <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Cargo.toml.orig">
           <value>
             <plugin>
               <option name="myPluginId" value="org.toml.lang" />
